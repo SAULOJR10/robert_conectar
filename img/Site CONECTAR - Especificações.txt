@@ -1,0 +1,35 @@
+Site CONECTAR - Espacificações
+
+Background Geral: #f7f2ef
+
+Fonte MENU: Bookochi
+
+Fonte Parte 1:
+- Bookochi
+- Darker Grotesque - Regular
+Fonte Botão Parte 1: Darker Grotesque - Bold
+
+Fonte Parte 2:
+- Bookochi
+- Darker Grotesque - Semibold
+
+Fonte Parte 3:
+- Bookochi
+- Darker Grotesque - Regular
+
+Fonte Parte 4:
+- Bookochi
+- Darker Grotesque - Black
+- Darker Grotesque - Regular e Black
+Fonte Botão Parte 4: Darker Grotesque - Black
+
+Fonte Parte 5:
+- Bookochi
+- Darker Grotesque - Regular
+- Darker Grotesque - Medium
+   - Darker Grotesque - Bold
+   - Darker Grotesque - Regular
+
+Fonte Parte 6:
+- Bookochi
+- Darker Grotesque - Regular
