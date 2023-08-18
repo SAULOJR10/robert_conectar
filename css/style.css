@@ -520,11 +520,78 @@ div#preloader {
     flex-direction: column;
 }
 
+.processos{
+    background-color: #6a288c;
+    margin: 30px 0px;
+    width: 100%;
+    padding: 30px 2%;
+}
+
+.processos .col-3{
+    width: 30%;
+    margin: 30px 1.5%;
+    float: left;
+    border-radius: 10px;
+    color: #fff!important;
+}
+
+.processo1{
+    background: url(../img/processo1.png) no-repeat center center;
+    background-size: 100%;
+    display: flex;
+    align-items: center;
+    height: 500px;
+}
+
+.processo2{
+    background: url(../img/processo2.png) no-repeat center center;    
+    background-size: 100%;
+    display: flex;
+    align-items: center;
+    height: 500px;
+}
+
+.processo3{
+    background: url(../img/processo3.png) no-repeat center center;    
+    background-size: 100%;
+    display: flex;
+    align-items: center;
+    height: 500px;
+}
+
+.processo4{
+    background: url(../img/processo4.png) no-repeat center center;    
+    background-size: 100%;
+    display: flex;
+    align-items: center;
+    height: 500px;
+}
+
+.processo5{
+    background: url(../img/processo5.png) no-repeat center center;    
+    background-size: 100%;
+    display: flex;
+    align-items: center;
+    height: 500px;
+}
+
+.processo6{
+    background: url(../img/processo6.png) no-repeat center center;    
+    background-size: 100%;
+    display: flex;
+    align-items: center;
+    height: 500px;
+}
+
 .titulo-3 {
     text-align: left;
     color: #7b56fc;
     font-family: principal;
     margin-top: 30px;
+}
+
+.checklist{
+    padding: 0px 15%;
 }
 
 .desc-3 {
@@ -1405,6 +1472,14 @@ div#preloader {
 
 .first-item {
     margin-bottom: 30px;
+}
+
+.item{
+    border-bottom: solid 2px #7b56fc;
+    padding: 10px 15px;
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
 }
 
 .awesome-img {
